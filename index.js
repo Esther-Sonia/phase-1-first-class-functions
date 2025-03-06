@@ -14,3 +14,4 @@ function receivesAFunction(callback) {
     };
   }
   
+  
